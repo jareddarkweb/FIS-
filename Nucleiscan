@@ -1,0 +1,40 @@
+[http-missing-security-headers:permissions-policy] [http] [info] https://uat-securities.fisglobal.com/Account/Login.aspx?ReturnUrl=%2f&r=1
+[workresources-rdp] [http] [info] https://radm.fisglobal.com/RDWeb/Pages/en-US/login.aspx
+[swagger-api] [http] [info] http://sftbdc.fisglobal.com/swagger/ui/index [paths="/swagger/ui/index"]
+[swagger-api] [http] [info] http://sftlrk-dr.fisglobal.com/swagger/ui/index [paths="/swagger/ui/index"]
+[swagger-api] [http] [info] https://sftbdc-dr.fisglobal.com/swagger/ui/index [paths="/swagger/ui/index"]
+[exposed-authentication-asmx] [http] [info] https://share.fisglobal.com/_vti_bin/Authentication.asmx?op=Mode
+[exposed-authentication-asmx] [http] [info] https://sharetest.fisglobal.com/_vti_bin/Authentication.asmx?op=Mode
+[exposed-sharepoint-list] [http] [medium] https://share.fisglobal.com/_vti_bin/lists.asmx?WSDL
+[exposed-sharepoint-list] [http] [medium] https://sharetest.fisglobal.com/_vti_bin/lists.asmx?WSDL
+[external-service-interaction] [http] [info] http://uat-scotiabankcolpatria-riskreporting.fisglobal.com
+[external-service-interaction] [http] [info] http://truist-scm.fisglobal.com
+[external-service-interaction] [http] [info] http://test-urt-reporting.fisglobal.com
+[external-service-interaction] [http] [info] http://sso.fisglobal.com
+[external-service-interaction] [http] [info] http://statefarm-scm-uat.fisglobal.com
+[external-service-interaction] [http] [info] http://sai-scm.fisglobal.com
+[external-service-interaction] [http] [info] http://uatfastval.fisglobal.com
+[external-service-interaction] [http] [info] http://wstadmin-careysecuritiesinc-uat.fisglobal.com
+[external-service-interaction] [http] [info] http://uat-stcm.fisglobal.com
+[external-service-interaction] [http] [info] http://pnc-ecm.fisglobal.com
+[external-service-interaction] [http] [info] http://tgtuatdsprelim.fisglobal.com
+[external-service-interaction] [http] [info] http://webaccess-fame.fisglobal.com
+[external-service-interaction] [http] [info] http://tgtuatprelim.fisglobal.com
+[external-service-interaction] [http] [info] http://wedbush-scm.fisglobal.com
+[external-service-interaction] [http] [info] securlockequip-dr.fisglobal.com
+[external-service-interaction] [http] [info] http://test-developer.fisglobal.com
+[security-txt] [http] [info] http://statefarm-scm-uat.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://pnc-ecm.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://sai-scm.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://truist-scm.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://test-developer.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://wstadmin-careysecuritiesinc-uat.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://uat-scotiabankcolpatria-riskreporting.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://test-urt-reporting.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[security-txt] [http] [info] http://wedbush-scm.fisglobal.com/.well-known/security.txt ["https://www.fisglobal.com/en/responsible-disclosure"]
+[external-service-interaction] [http] [info] https://sftp-uat.taservices.fisglobal.com
+[external-service-interaction] [http] [info] https://wossftp.fisglobal.com
+[robots-txt-endpoint] [http] [info] https://pics.fisglobal.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://regu.fisglobal.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://sharetest.fisglobal.com/robots.txt
+[robots-txt-endpoint] [http] [info] https://share.fisglobal.com/robots.txt
